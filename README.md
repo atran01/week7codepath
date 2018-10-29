@@ -12,7 +12,7 @@ Time spent: **11** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: Version 4.2
     - Fixed in version: 
-  - [x] GIF Walkthrough: ![](https://i.imgur.com/E7DrIm3.gifv)
+  - [x] GIF Walkthrough: <img src="https://i.imgur.com/E7DrIm3.gifv" width="800">
   - [x] Steps to recreate: 
       - 1: Setup wordpress version 4.2
       - 2: On the main page, go to the comment section
