@@ -19,15 +19,6 @@ Time spent: **11** hours spent in total
       - 3: Insert the payload (Contains a line of script that has a vast amount of characters) to the comment.
       - 4: Save the page and observe what happens.
 
-1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-
-
 ## Assets
 
 List any additional assets, such as scripts or files
