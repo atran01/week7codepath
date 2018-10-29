@@ -8,15 +8,14 @@ Time spent: **11** hours spent in total
 ## Pentesting Report
 
 1. XSS
-  - [x] Summary:
-                XSS; exploiting the comment box within wordpress. Display the notifcation of `Hello World` and display the payload in                    the background. Used a payload.
+  - [x] Summary: XSS; exploiting the comment box within wordpress. Display the notifcation of `Hello World` and display the payload in                    the background. Used a payload.
     - Vulnerability types: XSS
     - Tested in version: Version 4.2
     - Fixed in version: 
   - [x] GIF Walkthrough: <img src="https://imgur.com/E7DrIm3" width="800">
   - [x] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+  #- [ ] Affected source code:
+  #  - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
@@ -24,8 +23,8 @@ Time spent: **11** hours spent in total
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+  #- [ ] Affected source code:
+  # - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
 ## Assets
 
