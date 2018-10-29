@@ -14,8 +14,11 @@ Time spent: **11** hours spent in total
     - Fixed in version: 
   - [x] GIF Walkthrough: <img src="https://imgur.com/E7DrIm3" width="800">
   - [x] Steps to recreate: 
-  #- [ ] Affected source code:
-  #  - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+        - 1: Setup wordpress version 4.2
+        - 2: On the main page, go to the comment section
+        - 3: Insert the payload (Contains a line of script that has a vast amount of characters) to the comment.
+        - 4: Save the page and observe what happens.
+
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
@@ -23,8 +26,7 @@ Time spent: **11** hours spent in total
     - Fixed in version: 
   - [ ] GIF Walkthrough: 
   - [ ] Steps to recreate: 
-  #- [ ] Affected source code:
-  # - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+
 
 ## Assets
 
